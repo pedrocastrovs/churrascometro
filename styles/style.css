@@ -1,0 +1,19 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+}
+body{
+    background-color: blueviolet;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
